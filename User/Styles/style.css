@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+		Author: Iwebux
+		Description: table styles
+		Copyright: iwebux.com
+*/
+
+content {
+  width: 700px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+table
+{
+	margin:0px auto;
+	width:500px;
+	border:1px solid #646464;
+	position:relative;
+}
+
+tr,td
+{
+	text-align:center;
+	border: 1px solid #ccc;
+}
+
+tr
+{
+	background:#99F;
+}
+
+.heading{background:#ccc;}
+
+.alt
+{
+	background:#C4C4FF;
+}

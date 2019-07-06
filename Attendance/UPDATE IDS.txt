@@ -1,0 +1,37 @@
+update nims_emp_ids set emp_name='Dr. UMA MAHESHWARI' WHERE EMP_ID=2001 AND D_ID=51;
+
+update nims_emp_ids set emp_name='Dr. K.V. PRADEEP BABU' WHERE EMP_ID=2002 AND D_ID=51;
+
+update nims_emp_ids set emp_name='Dr. K. OMKARESHWAR' WHERE EMP_ID=2018 AND D_ID=51;
+
+update nims_emp_ids set emp_name='GADDE. SARVESHWAR RAO' WHERE EMP_ID=2001 AND D_ID=54;
+
+update nims_emp_ids set emp_name='UPPATALA SREEKANTH' WHERE EMP_ID=2002 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SHAIK ALISHA' WHERE EMP_ID=2003 AND D_ID=54;
+
+update nims_emp_ids set emp_name='MARKAPUDI. ANITHA' WHERE EMP_ID=2004 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SHAIK NAZMA' WHERE EMP_ID=2005 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SHAIK JUNNUBI' WHERE EMP_ID=2006 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SHAIK MALLIKA' WHERE EMP_ID=2007 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SYED ASHABI' WHERE EMP_ID=2008 AND D_ID=54;
+
+update nims_emp_ids set emp_name='TURAKA ALIVELU' WHERE EMP_ID=2009 AND D_ID=54;
+
+update nims_emp_ids set emp_name='CH GAYATRI' WHERE EMP_ID=2010 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SHAIK SHAJAHAN' WHERE EMP_ID=2011 AND D_ID=54;
+
+update nims_emp_ids set emp_name='MOHAMMAD SHABEER' WHERE EMP_ID=2012 AND D_ID=54;
+
+update nims_emp_ids set emp_name='JUJJUWARAPY GLORY MARK' WHERE EMP_ID=2015 AND D_ID=54;
+
+update nims_emp_ids set emp_name='P. YONA' WHERE EMP_ID=2016 AND D_ID=54;
+
+update nims_emp_ids set emp_name='M. YESU BABU' WHERE EMP_ID=2017 AND D_ID=54;
+
+update nims_emp_ids set emp_name='SHAIK ABDUL REHAMAN' WHERE EMP_ID=2019 AND D_ID=54

@@ -1,0 +1,15 @@
+select id, 
+    (
+    CASE 
+        WHEN qty_1 <= '23' THEN price
+        WHEN '23' > qty_1 && qty_2 <= '23' THEN price_2
+        WHEN '23' > qty_2 && qty_3 <= '23' THEN price_3
+        WHEN '23' > qty_3 THEN price_4
+        ELSE 1
+    END) AS total
+ from product;
+
+
+
+
+http://stackoverflow.com/questions/10069763/sql-server-query-for-employee-wise-monthly-attendance-report
